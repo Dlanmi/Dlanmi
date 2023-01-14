@@ -1,4 +1,3 @@
-<img src="./assets/images/Banner.png" style="padding:5px;" height='auto'>
 <h1 align="center"><img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/> Hey there! I'm Daniel Ojeda. 👨‍💻</h1>
 
 <h3 align="center">A young and passionate technology and programming enthusiast from Colombia</h3>
